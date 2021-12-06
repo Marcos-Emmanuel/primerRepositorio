@@ -13,6 +13,6 @@ body{
 body div{
   width: 100px;
   height: 100px;
-  border-color: 1px solid black;
+  border: 1px solid black;
 }
 
